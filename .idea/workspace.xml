@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Indexing:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b7a0cf95-e2b8-424c-b312-1b106d6fd188" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/eps/scp/IndexingConc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eps/scp/IndexingConc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/eps/scp/InvertedIndexConc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eps/scp/InvertedIndexConc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documentació/docu_prac1.aux" beforeDir="false" afterPath="$PROJECT_DIR$/../documentació/docu_prac1.aux" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documentació/docu_prac1.log" beforeDir="false" afterPath="$PROJECT_DIR$/../documentació/docu_prac1.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documentació/docu_prac1.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../documentació/docu_prac1.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documentació/docu_prac1.synctex.gz" beforeDir="false" afterPath="$PROJECT_DIR$/../documentació/docu_prac1.synctex.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documentació/docu_prac1.tex" beforeDir="false" afterPath="$PROJECT_DIR$/../documentació/docu_prac1.tex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documentació/docu_prac1.toc" beforeDir="false" afterPath="$PROJECT_DIR$/../documentació/docu_prac1.toc" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1S0fHM1eKd7U4QBcWHaYicRIOAI" />
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="findjar.last.used.dir" value="$PROJECT_DIR$" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/eps/scp" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="eps.scp" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.IndexingTest">
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <module name="Indexing" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Indexing_example1" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="eps.scp.IndexingConc" />
+      <module name="Indexing" />
+      <option name="PROGRAM_PARAMETERS" value="1 test/example1.txt 10 Output/example1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Indexing_example2" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="eps.scp.IndexingConc" />
+      <module name="Indexing" />
+      <option name="PROGRAM_PARAMETERS" value="4 test/example2.txt 10 Output/example2" />
+      <RunnerSettings RunnerId="Debug with VisualVM">
+        <option name="visualVMId" value="132732498004554" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Indexing_example3" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="eps.scp.IndexingConc" />
+      <module name="Indexing" />
+      <option name="PROGRAM_PARAMETERS" value="4 test/example3.txt 10 Output/example3" />
+      <RunnerSettings RunnerId="Debug with VisualVM">
+        <option name="visualVMId" value="217110747386471" />
+      </RunnerSettings>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Indexing_example4" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="eps.scp.IndexingConc" />
+      <module name="Indexing" />
+      <option name="PROGRAM_PARAMETERS" value="4 test/example4.txt 10 Output/example4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Indexing_quijote" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="eps.scp.IndexingConc" />
+      <module name="Indexing" />
+      <option name="PROGRAM_PARAMETERS" value="1 test/pg2000.txt 10 Output/quijote" />
+      <RunnerSettings RunnerId="Debug with VisualVM">
+        <option name="visualVMId" value="165925266092786" />
+      </RunnerSettings>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Indexing_seq_example4" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="eps.scp.IndexingSeq" />
+      <module name="Indexing" />
+      <option name="PROGRAM_PARAMETERS" value="test/example4.txt 10 Output/example4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Query_Example2" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="eps.scp.Query" />
+      <module name="Indexing" />
+      <option name="PROGRAM_PARAMETERS" value="&quot;123456789012345&quot; Output/example2 test/example2.txt 10" />
+      <RunnerSettings RunnerId="Debug with VisualVM">
+        <option name="visualVMId" value="29285887222876" />
+      </RunnerSettings>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Query_Example3" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="eps.scp.Query" />
+      <module name="Indexing" />
+      <option name="PROGRAM_PARAMETERS" value="4 &quot;345678902456789&quot; Output/example3 test/example3.txt 10" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Query_Quijote" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="eps.scp.Query" />
+      <module name="Indexing" />
+      <option name="PROGRAM_PARAMETERS" value="4 &quot;En un lugar de la Mancha&quot; Output/quijote/ test/pg2000.txt 10" />
+      <RunnerSettings RunnerId="Debug with VisualVM">
+        <option name="visualVMId" value="135946220987113" />
+      </RunnerSettings>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="To_Stdout" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="eps.scp.IndexingConc" />
+      <module name="Indexing" />
+      <option name="PROGRAM_PARAMETERS" value="4 test/example3.txt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IndexingTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Indexing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="eps.scp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="eps.scp" />
+      <option name="MAIN_CLASS_NAME" value="eps.scp.IndexingTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IndexingTest.testSaveSameFilesExample1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Indexing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="eps.scp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="eps.scp" />
+      <option name="MAIN_CLASS_NAME" value="eps.scp.IndexingTest" />
+      <option name="METHOD_NAME" value="testSaveSameFilesExample1" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IndexingTest.testSaveSameFilesExample2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Indexing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="eps.scp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="eps.scp" />
+      <option name="MAIN_CLASS_NAME" value="eps.scp.IndexingTest" />
+      <option name="METHOD_NAME" value="testSaveSameFilesExample2" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IndexingTest.testSaveSameFilesExample3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Indexing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="eps.scp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="eps.scp" />
+      <option name="MAIN_CLASS_NAME" value="eps.scp.IndexingTest" />
+      <option name="METHOD_NAME" value="testSaveSameFilesExample3" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QueryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Indexing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="eps.scp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="eps.scp" />
+      <option name="MAIN_CLASS_NAME" value="eps.scp.QueryTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Indexing_example1" />
+      <item itemvalue="Application.Query_Quijote" />
+      <item itemvalue="Application.Query_Example2" />
+      <item itemvalue="Application.Query_Example3" />
+      <item itemvalue="Application.Indexing_example3" />
+      <item itemvalue="Application.To_Stdout" />
+      <item itemvalue="Application.Indexing_example4" />
+      <item itemvalue="Application.Indexing_seq_example4" />
+      <item itemvalue="Application.Indexing_quijote" />
+      <item itemvalue="Application.Indexing_example2" />
+      <item itemvalue="JUnit.IndexingTest" />
+      <item itemvalue="JUnit.QueryTest" />
+      <item itemvalue="JUnit.IndexingTest.testSaveSameFilesExample2" />
+      <item itemvalue="JUnit.IndexingTest.testSaveSameFilesExample1" />
+      <item itemvalue="JUnit.IndexingTest.testSaveSameFilesExample3" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.IndexingTest.testSaveSameFilesExample3" />
+        <item itemvalue="JUnit.IndexingTest.testSaveSameFilesExample2" />
+        <item itemvalue="JUnit.IndexingTest.testSaveSameFilesExample1" />
+        <item itemvalue="JUnit.IndexingTest" />
+        <item itemvalue="JUnit.QueryTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b7a0cf95-e2b8-424c-b312-1b106d6fd188" name="Default" comment="" />
+      <created>1570471581823</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570471581823</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="GetKeyOffsets(key)" />
+        <watch expression="(char)car" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>Indexing:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Indexing</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>org.apache.commons:commons-lang3:3.9</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
