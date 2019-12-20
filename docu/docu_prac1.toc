@@ -1,0 +1,5 @@
+\contentsline {section}{\numberline {1}Introducci\IeC {\'o}n}{1}
+\contentsline {section}{\numberline {2}Gr\IeC {\'a}fica}{1}
+\contentsline {section}{\numberline {3}Concurrente vs Sequencial vs Concurrente Sincronizado}{2}
+\contentsline {section}{\numberline {4}Diferencias entre multiples hilos}{2}
+\contentsline {section}{\numberline {5}Dise\IeC {\~n}o de la Soluci\IeC {\'o}n}{2}

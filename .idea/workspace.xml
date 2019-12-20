@@ -7,175 +7,263 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b7a0cf95-e2b8-424c-b312-1b106d6fd188" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile001" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile001" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile002" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile002" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile003" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile003" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile004" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile004" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile005" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile005" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile006" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile006" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile007" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile007" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile008" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile008" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile009" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile009" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile010" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile010" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile011" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile011" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile012" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile012" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile013" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile013" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile014" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile014" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile015" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile015" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile016" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile016" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile017" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile017" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile018" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile018" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile019" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile019" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile020" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile020" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile021" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile021" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile022" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile022" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile023" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile023" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile024" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile024" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile025" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile025" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile026" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile026" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile027" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile027" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile028" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile028" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile029" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile029" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile030" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile030" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile031" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile031" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile032" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile032" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile033" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile033" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile034" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile034" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile035" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile035" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile036" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile036" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile037" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile037" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile038" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile038" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile039" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile039" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile040" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile040" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile041" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile041" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile042" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile042" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile043" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile043" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile044" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile044" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile045" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile045" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile046" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile046" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile047" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile047" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile048" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile048" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile049" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile049" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile050" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile050" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile051" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile051" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile052" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile052" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile053" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile053" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile054" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile054" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile055" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile055" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile056" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile056" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile057" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile057" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile058" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile058" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile059" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile059" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile060" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile060" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile061" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile061" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile062" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile062" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile063" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile063" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile064" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile064" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile065" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile065" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile066" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile066" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile067" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile067" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile068" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile068" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile069" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile069" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile070" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile070" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile071" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile071" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile072" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile072" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile073" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile073" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile074" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile074" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile075" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile075" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile076" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile076" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile077" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile077" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile078" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile078" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile079" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile079" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile080" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile080" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile081" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile081" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile082" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile082" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile083" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile083" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile084" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile084" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile085" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile085" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile086" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile086" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile087" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile087" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile088" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile088" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile089" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile089" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile090" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile090" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile091" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile091" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile092" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile092" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile093" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile093" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile094" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile094" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile095" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile095" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile096" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile096" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile097" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile097" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile098" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile098" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile099" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile099" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile100" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile100" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile101" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile101" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile102" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile102" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile103" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile103" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile104" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile104" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile105" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile105" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile106" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile106" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile107" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile107" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile108" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile108" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile109" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile109" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile110" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile110" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile111" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile111" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile112" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile112" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile113" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile113" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile114" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile114" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile115" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile115" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile116" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile116" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile117" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile117" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile118" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile118" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile119" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile119" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile120" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile120" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile121" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile121" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile122" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile122" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile123" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile123" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile124" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile124" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile125" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile125" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile126" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile126" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile127" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile127" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile128" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile128" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile129" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile129" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile130" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile130" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile131" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile131" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile132" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile132" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile133" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile133" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile134" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile134" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile135" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile135" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile136" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile136" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile137" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile137" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile138" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile138" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile139" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile139" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile140" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile140" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile141" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile141" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile142" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile142" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile143" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile143" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile144" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile144" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile145" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile145" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile146" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile146" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile147" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile147" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile148" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile148" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile149" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile149" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile150" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile150" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile151" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile151" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile152" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile152" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/tmp1/IndexFile153" beforeDir="false" afterPath="$PROJECT_DIR$/Output/tmp1/IndexFile153" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Indexing_jar/Indexing.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Indexing_jar/Indexing.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Indexing/eps/scp/IndexingConc$partsBuildIndex.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Indexing/eps/scp/IndexingConc$partsBuildIndex.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Indexing/eps/scp/IndexingConc$partsSaveIndex.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Indexing/eps/scp/IndexingConc$partsSaveIndex.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Indexing/eps/scp/IndexingConc.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Indexing/eps/scp/IndexingConc.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Indexing/eps/scp/IndexingSeq.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Indexing/eps/scp/IndexingSeq.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Indexing/eps/scp/IndexingTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Indexing/eps/scp/IndexingTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Indexing/eps/scp/InvertedIndexConc$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Indexing/eps/scp/InvertedIndexConc$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Indexing/eps/scp/InvertedIndexConc.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Indexing/eps/scp/InvertedIndexConc.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Indexing/eps/scp/InvertedIndexSeq$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Indexing/eps/scp/InvertedIndexSeq$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Indexing/eps/scp/InvertedIndexSeq.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Indexing/eps/scp/InvertedIndexSeq.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Indexing/eps/scp/Query$partsLoadIndex.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Indexing/eps/scp/Query$partsLoadIndex.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Indexing/eps/scp/Query.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Indexing/eps/scp/Query.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src_seq/eps/scp/InvertedIndexSeq.java" beforeDir="false" afterPath="$PROJECT_DIR$/src_seq/eps/scp/InvertedIndexSeq.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src_seq/eps/scp/QuerySeq.java" beforeDir="false" afterPath="$PROJECT_DIR$/src_seq/eps/scp/QuerySeq.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/.idea/artifacts/Indexing_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/.idea/libraries/com_google_guava_guava_26_0_jre.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/.idea/libraries/org_apache_commons_commons_lang3_3_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Indexing.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example1/IndexFile001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example1/IndexFile002" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example1/IndexFile003" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example1/IndexFile004" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example1/IndexFile005" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example1/IndexFile006" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example1/IndexFile007" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example1/IndexFile008" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example1/IndexFile009" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example1/IndexFile010" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example2/IndexFile001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example2/IndexFile002" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example2/IndexFile003" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example2/IndexFile004" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example2/IndexFile005" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example2/IndexFile006" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example2/IndexFile007" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example2/IndexFile008" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example2/IndexFile009" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example2/IndexFile010" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example2/IndexFile011" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example2/IndexFile012" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example2/IndexFile013" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example2/IndexFile014" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example2/IndexFile015" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example2/IndexFile016" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example2/IndexFile017" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example2/IndexFile018" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example2/IndexFile019" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example2/IndexFile020" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example2/IndexFile021" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example2/IndexFile022" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example2/IndexFile023" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example2/IndexFile024" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example2/IndexFile025" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example2/IndexFile026" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example2/IndexFile027" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example2/IndexFile028" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example2/IndexFile029" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example2/IndexFile030" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example2/IndexFile031" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example2/IndexFile032" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example2/IndexFile033" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example2/IndexFile034" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example2/IndexFile035" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example2/IndexFile036" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example2/IndexFile037" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example2/IndexFile038" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example2/IndexFile039" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example2/IndexFile040" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example2/IndexFile041" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example2/IndexFile042" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example2/IndexFile043" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example2/IndexFile044" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example2/IndexFile045" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example2/IndexFile046" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example2/IndexFile047" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example2/IndexFile048" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example2/IndexFile049" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example2/IndexFile050" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example2/IndexFile051" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example2/IndexFile052" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example2/IndexFile053" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example2/IndexFile054" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example2/IndexFile055" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example2/IndexFile056" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example2/IndexFile057" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example2/IndexFile058" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example2/IndexFile059" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example2/IndexFile060" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example2/IndexFile061" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example2/IndexFile062" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example2/IndexFile063" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example2/IndexFile064" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example2/IndexFile065" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example2/IndexFile066" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example2/IndexFile067" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example2/IndexFile068" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example2/IndexFile069" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example2/IndexFile070" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example2/IndexFile071" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example2/IndexFile072" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example2/IndexFile073" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example2/IndexFile074" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example2/IndexFile075" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example2/IndexFile076" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example2/IndexFile077" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example2/IndexFile078" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile002" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile003" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile004" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile005" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile006" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile007" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile008" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile009" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile010" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile011" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile012" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile013" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile014" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile015" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile016" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile017" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile018" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile019" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile020" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile021" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile022" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile023" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile024" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile025" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile026" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile027" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile028" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile029" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile030" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile031" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile032" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile033" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile034" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile035" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile036" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile037" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile038" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile039" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile040" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile041" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile042" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile043" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile044" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile045" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile046" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile047" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile048" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile049" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile050" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile051" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile052" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile053" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile054" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile055" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile056" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile057" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile058" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile059" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile060" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile061" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile062" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile063" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile064" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile065" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile066" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile067" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile068" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile069" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile070" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile071" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile072" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile073" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile074" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile075" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile076" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile077" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile078" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile079" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile080" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile081" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile082" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile083" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile084" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile085" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile086" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile087" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile088" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile089" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile090" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile091" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile092" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile093" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile094" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile095" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile096" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile097" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile098" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile099" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile100" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile101" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile102" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile103" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile104" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile105" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile106" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile107" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile108" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile109" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile110" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile111" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile112" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile113" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile114" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile115" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile116" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile117" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile118" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile119" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile120" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile121" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile122" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile123" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile124" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile125" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile126" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile127" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile128" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile129" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile130" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile131" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile132" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile133" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile134" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile135" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile136" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile137" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile138" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile139" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile140" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile141" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile142" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile143" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/Output/example3/IndexFile144" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/out/artifacts/Indexing_jar/Indexing.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/out/production/Indexing/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/out/production/Indexing/eps/scp/Indexing.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/out/production/Indexing/eps/scp/InvertedIndex$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/out/production/Indexing/eps/scp/InvertedIndex.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/out/production/Indexing/eps/scp/Query.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/src/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/src/eps/scp/Indexing.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/src/eps/scp/InvertedIndex.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/src/eps/scp/Query.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/test/checkOffsets.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/test/example1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/test/example2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/test/example3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indexing/test/pg2000.txt" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -205,7 +293,7 @@
     <property name="create.test.in.the.same.root" value="true" />
     <property name="findjar.last.used.dir" value="$PROJECT_DIR$" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/eps/scp" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Indexing_v2" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
